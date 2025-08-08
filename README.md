@@ -1,5 +1,5 @@
 # Walmart_Sales
-
+![]()
 ## Project Overview
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data.By utilizing Python for data processing and analysis, SQL for advanced querying, and structured problem solving techniques to solve key business questions.
